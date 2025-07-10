@@ -114,6 +114,10 @@
                 {
                     "targets": {
                         "node": "current"
+"scripts": {
+  "start:prod": "cd packages/server && pnpm start"
+}
+
                     }
                 }
             ]
